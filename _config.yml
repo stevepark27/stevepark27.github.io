@@ -22,7 +22,7 @@ avatar_image: /img/portfolio_pic_sq.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/steve-solnosky-data27/?trk=opento_sprofile_topcard" # Add your linkedln handle
 github: "https://github.com/#"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
